@@ -1,7 +1,7 @@
 //Accordion
 
 var action="click"; //click, hover, double click for answer to open. set to click by default
-var speed="500";
+var speed="500"; //Set transition speed
 
 $(document).ready(function(){
 	//Question handler
