@@ -1,4 +1,4 @@
-#FAQ Accordion
+# FAQ Accordion
 
 **FAQ Accordion** is a content accordion.This is great for an FAQ section and could be used in many different contexts.
 
