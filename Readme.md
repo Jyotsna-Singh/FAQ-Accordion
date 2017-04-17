@@ -20,7 +20,7 @@
 			<h1>jQuery FAQ Accordion Slider</h1>
 			<div class="title"><h3>FAQ Slider Using jQuery</h3></div>
 			<ul class="faq">
-				<li class="q"><img src="img/arrow.png">ENTER QUESTION HERE (E.g, Who is Jyotsna Singh?0</li>
+				<li class="q"><img src="img/arrow.png">ENTER QUESTION HERE (E.g, Who is Jyotsna Singh?)</li>
 				<li class="a">ENTER ANSWER HERE (E.g, Certified Full-Stack Web Developer)</li>
 
 ## Vendors
